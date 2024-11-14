@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0e0e0; /* Gris claro */
+    color: #343a40;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+.car-section {
+    margin-top: 3rem;
+}
+
+.carousel img {
+    height: 400px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
